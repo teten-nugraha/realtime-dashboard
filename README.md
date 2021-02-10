@@ -41,7 +41,9 @@ dalam project ini saya menggunakan kafka secara local
 2. Pastikan topic **live-temperature** 
 3. git clone https://github.com/teten-nugraha/realtime-dashboard.git 
 4. mvn clean install
-5. mvn spring-boot:run 
+5. mvn spring-boot:run atau running menggunakan IDE
+6. Buka browser dan ketika localhost:5656/home
+
 
 
 
